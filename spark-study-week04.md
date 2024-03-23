@@ -150,7 +150,7 @@ DataFrame 관련 공식문서 :
 
 1. **repartition & coalesce**
 
-![출처 : [https://dongza.tistory.com/18](https://dongza.tistory.com/18)](Spark%20Study%205c8338d728b448709eeac6e9120e66dd/Untitled.png)
+![출처 : [https://dongza.tistory.com/18](https://dongza.tistory.com/18)](/spark-study-week04/Untitled.png)
 
 출처 : [https://dongza.tistory.com/18](https://dongza.tistory.com/18)
 
